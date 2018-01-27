@@ -45,7 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             // user id is required
             var user_id = "ashwin"
             // account id is required for account analytics
-            var account_id = "INSERT_YOUR_APP_ACCOUNT_ID_HERE"
+            var account_id = "ashwin"
             useriq.setSiteId(useriq_site_id)
             useriq.identify(user_id, {
               user_name: 'ashwin',
